@@ -1,0 +1,201 @@
+--------------- Welcome to Uber Booking System ---------------
+Command Add_Captain: Add a new captain record in the System
+
+			ID: 501
+			Name: Rida_Ahmad_Zahrani
+			Available: True
+			Rating star: 0
+
+----------------------------------------------------------------
+Command Add_Captain: Add a new captain record in the System
+
+			ID: 502
+			Name: Zahid_Ali
+			Available: True
+			Rating star: 0
+
+----------------------------------------------------------------
+Command Add_Captain: Add a new captain record in the System
+
+			ID: 503
+			Name: Shahid_Aman
+			Available: True
+			Rating star: 0
+
+----------------------------------------------------------------
+Command Add_Captain: Add a new captain record in the System
+
+			ID: 504
+			Name: John_Zukie
+			Available: True
+			Rating star: 0
+
+----------------------------------------------------------------
+Command Add_Captain: Add a new captain record in the System
+
+			ID: 505
+			Name: Yasser_Ali
+			Available: True
+			Rating star: 0
+
+----------------------------------------------------------------
+Command Add_Captain: Add a new captain record in the System
+
+			ID: 506
+			Name: Ahmed_Qahtani
+			Available: True
+			Rating star: 0
+
+----------------------------------------------------------------
+Command Add_Captain: Add a new captain record in the System
+
+			ID: 507
+			Name: Zahoor_Rashid
+			Available: True
+			Rating star: 0
+
+----------------------------------------------------------------
+Command Add_Captain: Add a new captain record in the System
+
+			ID: 508
+			Name: Amna_Ayman
+			Available: True
+			Rating star: 0
+
+----------------------------------------------------------------
+Command Add_Captain: Add a new captain record in the System
+
+			ID: 509
+			Name: Nassr_Alqahtani
+			Available: True
+			Rating star: 0
+
+----------------------------------------------------------------
+Command Add_Captain: Add a new captain record in the System
+
+			ID: 510
+			Name: Maryam_Alzahrani
+			Available: True
+			Rating star: 0
+
+----------------------------------------------------------------
+Command BOOK_RIDE: Book a new Ride with captain 501
+
+----------------------------------------------------------------
+Command BOOK_RIDE: Book a new Ride with captain 502
+
+----------------------------------------------------------------
+Command BOOK_RIDE: Book a new Ride with captain 503
+
+----------------------------------------------------------------
+Command BOOK_RIDE: Couldn't find any captain with ID number 514
+
+----------------------------------------------------------------
+Command BOOK_RIDE: The captain Shahid_Aman is not available. He is on another ride!
+
+
+----------------------------------------------------------------
+Command DISPLAY_CAPTAIN_INFO: 
+			ID: 509
+			Name: Nassr_Alqahtani
+			Available: true
+			Rating star: 0
+
+----------------------------------------------------------------
+Command DISPLAY_CAPTAIN_INFO: Couldn't find any captain with ID number 520
+
+----------------------------------------------------------------
+Command DISPLAY_CAPTAIN_INFO: 
+			ID: 502
+			Name: Zahid_Ali
+			Available: false
+			Rating star: 0
+
+----------------------------------------------------------------
+Command FINISH_RIDE: Finish ride with captain 501
+
+			ID: 501
+			Name: Rida_Ahmad_Zahrani
+			Available: true
+			Rating star: 0
+----------------------------------------------------------------
+Command FINISH_RIDE: Finish ride with captain 502
+
+			ID: 502
+			Name: Zahid_Ali
+			Available: true
+			Rating star: 1
+----------------------------------------------------------------
+Command FINISH_RIDE: The captain Zahoor_Rashid is not in a ride!”
+----------------------------------------------------------------
+Command FINISH_RIDE: Couldn't find any captain with ID number 511
+----------------------------------------------------------------
+Command  DELETE_CAPTAIN: The captain John_Zukie left Uber
+----------------------------------------------------------------
+Command  DELETE_CAPTAIN: Couldn't find any captain with ID number 514
+----------------------------------------------------------------
+Command DISPLAY_ALL_CAPTAINS: 
+
+			ID: 501
+			Name: Rida_Ahmad_Zahrani
+			Available: true
+			Rating star: 0
+
+----------------------------------------------------------------
+
+			ID: 502
+			Name: Zahid_Ali
+			Available: true
+			Rating star: 1
+
+----------------------------------------------------------------
+
+			ID: 503
+			Name: Shahid_Aman
+			Available: false
+			Rating star: 0
+
+----------------------------------------------------------------
+
+			ID: 505
+			Name: Yasser_Ali
+			Available: true
+			Rating star: 0
+
+----------------------------------------------------------------
+
+			ID: 506
+			Name: Ahmed_Qahtani
+			Available: true
+			Rating star: 0
+
+----------------------------------------------------------------
+
+			ID: 507
+			Name: Zahoor_Rashid
+			Available: true
+			Rating star: 0
+
+----------------------------------------------------------------
+
+			ID: 508
+			Name: Amna_Ayman
+			Available: true
+			Rating star: 0
+
+----------------------------------------------------------------
+
+			ID: 509
+			Name: Nassr_Alqahtani
+			Available: true
+			Rating star: 0
+
+----------------------------------------------------------------
+
+			ID: 510
+			Name: Maryam_Alzahrani
+			Available: true
+			Rating star: 0
+
+----------------------------------------------------------------
+Thank you for using Uber System, Good Bye!

@@ -1,0 +1,135 @@
+
+Add_Captain  501 Rida_Ahmad_Zahrani   
+Add_Captain  502 Zahid_Ali      
+Add_Captain  503 Shahid_Aman     
+Add_Captain  504 John_Zukie      
+Add_Captain  505 Yasser_Ali      
+Add_Captain  506 Ahmed_Qahtani      
+Add_Captain  507 Zahoor_Rashid     
+Add_Captain  508 Amna_Ayman      
+Add_Captain  509 Nassr_Alqahtani      
+Add_Captain  510 Maryam_Alzahrani      
+
+BOOK_RIDE 501                 
+BOOK_RIDE 502                
+BOOK_RIDE 503                 
+BOOK_RIDE 514                 
+BOOK_RIDE 503                 
+
+DISPLAY_CAPTAIN_INFO 509
+DISPLAY_CAPTAIN_INFO 520
+DISPLAY_CAPTAIN_INFO 502
+
+
+FINISH_RIDE 501 0
+FINISH_RIDE 502 1
+FINISH_RIDE 507 1
+FINISH_RIDE 511 1
+
+DELETE_CAPTAIN 504
+DELETE_CAPTAIN 514
+
+DISPLAY_ALL_CAPTAINS
+
+Quit
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
